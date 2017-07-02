@@ -1,0 +1,6 @@
+c:\users\mike\documents\visual studio 2015\Projects\NågotKonstigt\NågotKonstigt\bin\Debug\NågotKonstigt.exe.config
+c:\users\mike\documents\visual studio 2015\Projects\NågotKonstigt\NågotKonstigt\bin\Debug\NågotKonstigt.exe
+c:\users\mike\documents\visual studio 2015\Projects\NågotKonstigt\NågotKonstigt\bin\Debug\NågotKonstigt.pdb
+c:\users\mike\documents\visual studio 2015\Projects\NågotKonstigt\NågotKonstigt\obj\Debug\NågotKonstigt.exe
+c:\users\mike\documents\visual studio 2015\Projects\NågotKonstigt\NågotKonstigt\obj\Debug\NågotKonstigt.pdb
+c:\users\mike\documents\visual studio 2015\Projects\NågotKonstigt\NågotKonstigt\obj\Debug\NågotKonstigt.csprojResolveAssemblyReference.cache
