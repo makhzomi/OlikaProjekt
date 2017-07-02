@@ -1,0 +1,30 @@
+f:\dokument\visual studio 2013\Projects\WpfLabGroup99\WpfLabGroup99\bin\Debug\WpfLabGroup99.exe.config
+f:\dokument\visual studio 2013\Projects\WpfLabGroup99\WpfLabGroup99\obj\Debug\WpfLabGroup99.csprojResolveAssemblyReference.cache
+f:\dokument\visual studio 2013\Projects\WpfLabGroup99\WpfLabGroup99\obj\Debug\MainWindow.g.cs
+f:\dokument\visual studio 2013\Projects\WpfLabGroup99\WpfLabGroup99\obj\Debug\App.g.cs
+f:\dokument\visual studio 2013\Projects\WpfLabGroup99\WpfLabGroup99\obj\Debug\GeneratedInternalTypeHelper.g.cs
+f:\dokument\visual studio 2013\Projects\WpfLabGroup99\WpfLabGroup99\obj\Debug\WpfLabGroup99_MarkupCompile.cache
+f:\dokument\visual studio 2013\Projects\WpfLabGroup99\WpfLabGroup99\obj\Debug\WpfLabGroup99_MarkupCompile.lref
+F:\dokument\Visual Studio 2013\Projects\WpfLabGroup99\WpfLabGroup99\bin\Debug\WpfLabGroup99.exe
+F:\dokument\Visual Studio 2013\Projects\WpfLabGroup99\WpfLabGroup99\bin\Debug\WpfLabGroup99.pdb
+F:\dokument\Visual Studio 2013\Projects\WpfLabGroup99\WpfLabGroup99\obj\Debug\MainWindow.baml
+F:\dokument\Visual Studio 2013\Projects\WpfLabGroup99\WpfLabGroup99\obj\Debug\WpfLabGroup99.g.resources
+F:\dokument\Visual Studio 2013\Projects\WpfLabGroup99\WpfLabGroup99\obj\Debug\WpfLabGroup99.Properties.Resources.resources
+F:\dokument\Visual Studio 2013\Projects\WpfLabGroup99\WpfLabGroup99\obj\Debug\WpfLabGroup99.csproj.GenerateResource.Cache
+F:\dokument\Visual Studio 2013\Projects\WpfLabGroup99\WpfLabGroup99\obj\Debug\WpfLabGroup99.exe
+F:\dokument\Visual Studio 2013\Projects\WpfLabGroup99\WpfLabGroup99\obj\Debug\WpfLabGroup99.pdb
+C:\Users\Mike\Desktop\WpfLabGroup99\WpfLabGroup99\bin\Debug\WpfLabGroup99.exe.config
+C:\Users\Mike\Desktop\WpfLabGroup99\WpfLabGroup99\obj\Debug\WpfLabGroup99.exe
+C:\Users\Mike\Desktop\WpfLabGroup99\WpfLabGroup99\obj\Debug\WpfLabGroup99.pdb
+C:\Users\Mike\Desktop\WpfLabGroup99\WpfLabGroup99\bin\Debug\WpfLabGroup99.exe
+C:\Users\Mike\Desktop\WpfLabGroup99\WpfLabGroup99\bin\Debug\WpfLabGroup99.pdb
+C:\Users\Mike\Desktop\WpfLabGroup99\WpfLabGroup99\obj\Debug\WpfLabGroup99.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\WpfLabGroup99\WpfLabGroup99\obj\Debug\MainWindow.g.cs
+C:\Users\Mike\Desktop\WpfLabGroup99\WpfLabGroup99\obj\Debug\App.g.cs
+C:\Users\Mike\Desktop\WpfLabGroup99\WpfLabGroup99\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mike\Desktop\WpfLabGroup99\WpfLabGroup99\obj\Debug\WpfLabGroup99_MarkupCompile.cache
+C:\Users\Mike\Desktop\WpfLabGroup99\WpfLabGroup99\obj\Debug\WpfLabGroup99_MarkupCompile.lref
+C:\Users\Mike\Desktop\WpfLabGroup99\WpfLabGroup99\obj\Debug\MainWindow.baml
+C:\Users\Mike\Desktop\WpfLabGroup99\WpfLabGroup99\obj\Debug\WpfLabGroup99.g.resources
+C:\Users\Mike\Desktop\WpfLabGroup99\WpfLabGroup99\obj\Debug\WpfLabGroup99.Properties.Resources.resources
+C:\Users\Mike\Desktop\WpfLabGroup99\WpfLabGroup99\obj\Debug\WpfLabGroup99.csproj.GenerateResource.Cache
