@@ -1,0 +1,9 @@
+c:\users\mike\documents\visual studio 2013\Projects\win_calc\win_calc\bin\Debug\win_calc.exe.config
+c:\users\mike\documents\visual studio 2013\Projects\win_calc\win_calc\bin\Debug\win_calc.exe
+c:\users\mike\documents\visual studio 2013\Projects\win_calc\win_calc\bin\Debug\win_calc.pdb
+c:\users\mike\documents\visual studio 2013\Projects\win_calc\win_calc\obj\Debug\win_calc.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2013\Projects\win_calc\win_calc\obj\Debug\win_calc.Form1.resources
+c:\users\mike\documents\visual studio 2013\Projects\win_calc\win_calc\obj\Debug\win_calc.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2013\Projects\win_calc\win_calc\obj\Debug\win_calc.csproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2013\Projects\win_calc\win_calc\obj\Debug\win_calc.exe
+c:\users\mike\documents\visual studio 2013\Projects\win_calc\win_calc\obj\Debug\win_calc.pdb
