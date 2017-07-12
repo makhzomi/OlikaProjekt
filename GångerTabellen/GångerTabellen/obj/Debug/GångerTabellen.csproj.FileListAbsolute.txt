@@ -1,0 +1,6 @@
+c:\users\mike\documents\visual studio 2015\Projects\GångerTabellen\GångerTabellen\bin\Debug\GångerTabellen.exe.config
+c:\users\mike\documents\visual studio 2015\Projects\GångerTabellen\GångerTabellen\bin\Debug\GångerTabellen.exe
+c:\users\mike\documents\visual studio 2015\Projects\GångerTabellen\GångerTabellen\bin\Debug\GångerTabellen.pdb
+c:\users\mike\documents\visual studio 2015\Projects\GångerTabellen\GångerTabellen\obj\Debug\GångerTabellen.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2015\Projects\GångerTabellen\GångerTabellen\obj\Debug\GångerTabellen.exe
+c:\users\mike\documents\visual studio 2015\Projects\GångerTabellen\GångerTabellen\obj\Debug\GångerTabellen.pdb
