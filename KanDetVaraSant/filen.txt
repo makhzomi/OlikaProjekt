@@ -1,0 +1,5 @@
+The sheeps name is: Fåret, The sheeps age is: 7, The sheeps wight is: 45, The sheeps wool in kg is: 8kg, The sheeps wool color is: Grey
+The cows name is: Angela, The cows age is: 8, The cows wight is: 78kg, The cows produce 14L milk, The cows milk contain 30,00 %
+The dogs name is: Michel, The dogs age is: 5, The dogs Wight is: 35, The dogs food is: Royal
+The dogs name is: Roy, The dogs age is: 4, The dogs Wight is: 34, The dogs food is: Aiax
+The dogs name is: mike, The dogs age is: 6, The dogs Wight is: 33, The dogs food is: hisar

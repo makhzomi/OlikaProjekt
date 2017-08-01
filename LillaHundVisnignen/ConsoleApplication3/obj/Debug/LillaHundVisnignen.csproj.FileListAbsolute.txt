@@ -3,3 +3,6 @@ c:\users\mike\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleA
 c:\users\mike\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
 c:\users\mike\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
 c:\users\mike\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Mike\Documents\GitHub\OlikaProjekt\LillaHundVisnignen\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Mike\Documents\GitHub\OlikaProjekt\LillaHundVisnignen\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Mike\Documents\GitHub\OlikaProjekt\LillaHundVisnignen\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

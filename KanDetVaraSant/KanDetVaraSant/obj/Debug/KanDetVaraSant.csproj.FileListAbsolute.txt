@@ -1,0 +1,6 @@
+c:\users\mike\documents\visual studio 2015\Projects\KanDetVaraSant\KanDetVaraSant\bin\Debug\KanDetVaraSant.exe.config
+c:\users\mike\documents\visual studio 2015\Projects\KanDetVaraSant\KanDetVaraSant\bin\Debug\KanDetVaraSant.exe
+c:\users\mike\documents\visual studio 2015\Projects\KanDetVaraSant\KanDetVaraSant\bin\Debug\KanDetVaraSant.pdb
+c:\users\mike\documents\visual studio 2015\Projects\KanDetVaraSant\KanDetVaraSant\obj\Debug\KanDetVaraSant.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2015\Projects\KanDetVaraSant\KanDetVaraSant\obj\Debug\KanDetVaraSant.exe
+c:\users\mike\documents\visual studio 2015\Projects\KanDetVaraSant\KanDetVaraSant\obj\Debug\KanDetVaraSant.pdb
